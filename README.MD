@@ -34,10 +34,6 @@ If you prefer to develop with bootstrap rather than with material design, please
 
 ## Built by and for developers :heart:
 Do you have `any` question or suggestion ? Please do not hesitate to contact us!
-Alternatively, provide a PR | open an appropriate issue [here](https://github.com/anthonynahas/ngx-auth-firebaseui/issues)
-
-If you like this project, support [ngx-auth-firebaseui](https://github.com/anthonynahas/ngx-auth-firebaseui)
-by starring :star: and sharing it :loudspeaker:
 
 ## Table of Contents
 - [ngx-auth-firebaseui vs firebaseui-web](#vs)
@@ -79,8 +75,7 @@ by starring :star: and sharing it :loudspeaker:
 | Sign out                                                                                     | :heavy_check_mark:    |  :x:                   |
 | Sign in/up progress indicator                                                                | :heavy_check_mark:    |  :x:                   |
 | Password Strength indicator                                                                  | :heavy_check_mark:    |  :x:                   |
-| Forgot/Reset Password                                                                        | :heavy_check_mark:    |  :x:                   |
-| [Password Strength Meter ](https://github.com/angular-material-extensions/password-strength) | :heavy_check_mark:    |  :x:                   |
+| :heavy_check_mark:    |  :x:                   |
 | Delete account                                                                               | :heavy_check_mark:    |  :x:                   |
 | Login Authentication Guard                                                                   | :heavy_check_mark:    |  :x:                   |
 | User Profile                                                                                 | :heavy_check_mark:    |  :x:                   |
